@@ -371,10 +371,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Code/GameController.cs"
 "Assets/Code/Item.cs"
 "Assets/Code/Mover.cs"
 "Assets/Code/Obstacle.cs"
 "Assets/Code/Player.cs"
+"Assets/Code/Projectile.cs"
+"Assets/Code/Spawner.cs"
 -langversion:9.0
 
 /deterministic
